@@ -1,0 +1,22 @@
+.container {
+  width: 1024px;
+  margin: auto;
+}
+.header_top {
+  height: 44px;
+  background-color: #1d1d1fed;
+}
+#section1 {
+  height: 660px;
+}
+#section2 {
+  height: 624px;
+  background: url(../img/hero_iphone14pro__e5xbgo5ffhg2_large.jpg) no-repeat center;
+}
+#section3 {
+  height: 624px;
+  background: url(../img/hero_iphone14__fjmsqstr1ceq_large.jpg) no-repeat center;
+}
+#section4 {
+    height: 1200px;
+}

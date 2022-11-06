@@ -1,0 +1,84 @@
+.header_top ul { padding-top: 13px; } 
+
+.header_top ul li { display: inline; margin-left: 30px; } 
+
+.header_top ul li a { color: #f5f5f7; font-size: 12px; } 
+.header_top ul .logo a { background-size: 14px 44px; background-repeat: no-repeat; background-image: url(../img/globalnav_apple_image__b5er5ngrzxqq_large.svg); background-position: center center; font-size: 14px; } 
+/* .header_top ul .search a { background-size: 15px 88px; background-repeat: no-repeat; background-image: url(../img/globalnav_search_image__cbllq1gkias2_large.svg); background-position: center center; width: 15px; font-size: 14px; } */
+.header_top ul .basket a { background-size: 14px 44px; background-repeat: no-repeat; background-image: url(../img/globalnav_bag_image__yzte50i47ciu_large.svg); background-position: center center; font-size: 14px; } 
+
+.header_top ul li a span { opacity: 0; height: 44px; } 
+
+/* ========//header========== */
+
+.content1_box .ipad_img { width: 520px; margin: auto; margin-top: 25px; position: relative; right: 125px; } 
+.content1_box .ipad_img img { width: 100%; margin: auto; position: absolute; z-index: -1; } 
+
+.content1_box .ipad .txt_box { margin-top: 180px; margin-right: 180px; width: 350px; text-align: center; } 
+.content1_box .ipad .txt_box h2 { font-size: 50px; font-weight: 600; color: #1d1d1f; margin-bottom: 15px; } 
+.content1_box .ipad .txt_box h3 { font-size: 23px; line-height: 1.10722; font-weight: 400; letter-spacing: 0.004em; color: #1d1d1f; margin-bottom: 15px; } 
+.content1_box .ipad .txt_box p { font-size: 18px; font-weight: 400; color: #6e6e73; margin-bottom: 15px; } 
+
+.content1_box .ipad .txt_box .btn_box { margin-left: 30px; } 
+.content1_box .ipad .txt_box button { font-size: 19px; margin-right: 30px; } 
+.content1_box .ipad .txt_box button a { color: #06c; font-weight: 500; } 
+.content1_box .ipad .txt_box button a:hover { text-decoration: underline; } 
+
+.content2_box .iphone_pro .txt_box { margin: auto; width: 350px; text-align: center; padding-top: 80px; } 
+.content2_box .iphone_pro .txt_box h2 { font-size: 50px; font-weight: 600; color: #fff; margin-bottom: 15px; } 
+.content2_box .iphone_pro .txt_box h3 { font-size: 23px; line-height: 1.10722; font-weight: 400; letter-spacing: 0.004em; color: #fff; margin-bottom: 15px; } 
+.content2_box .iphone_pro .txt_box .btn_box { margin-left: 30px; } 
+.content2_box .iphone_pro .txt_box button { font-size: 17px; margin-right: 30px; } 
+.content2_box .iphone_pro .txt_box button a { color: #06c; font-weight: 500; background-color: #161617; } 
+.content2_box .iphone_pro .txt_box button a:hover { text-decoration: underline; } 
+
+.content3_box .iphone .txt_box { margin: auto; width: 350px; text-align: center; padding-top: 80px; } 
+.content3_box .iphone .txt_box h2 { font-size: 50px; font-weight: 600; color: #1d1d1f; margin-bottom: 15px; } 
+.content3_box .iphone .txt_box h3 { font-size: 23px; line-height: 1.10722; font-weight: 400; letter-spacing: 0.004em; color: #1d1d1f; margin-bottom: 15px; } 
+.content3_box .iphone .txt_box .btn_box { margin-left: 30px; } 
+.content3_box .iphone .txt_box button { font-size: 17px; margin-right: 30px; } 
+.content3_box .iphone .txt_box button a { color: #06c; font-weight: 500; background-color: #fff; } 
+.content3_box .iphone .txt_box button a:hover { text-decoration: underline; } 
+
+.content4_box .box1 { width: 50%; height: 600px; background: url(../img/promo_apple_watch_ultra__gnsqulvdc4a6_large.jpg)
+ no-repeat center; } 
+.content4_box .box1 .txt_box { margin: auto; width: 350px; text-align: center; padding-top: 80px; } 
+.content4_box .box1 .txt_box h4 { font-size: 32px; font-weight: 600; color: #1d1d1f; margin-bottom: 10px; } 
+.content4_box .box1 .txt_box span { font-size: 15px; line-height: 1.10722; font-weight: 600; letter-spacing: 0.004em; color: #f56900; } 
+.content4_box .box1 .txt_box p { margin-top: 10px; margin-bottom: 10px; font-size: 19px; line-height: 1.2381; font-weight: 400; letter-spacing: 0.016em; } 
+.content4_box .box1 .txt_box .btn_box { margin-left: 30px; } 
+.content4_box .box1 .txt_box button { font-size: 14px; margin-right: 30px; } 
+.content4_box .box1 .txt_box button a { color: #06c; font-weight: 500; background-color: #fff; } 
+.content4_box .box1 .txt_box button a:hover { text-decoration: underline; } 
+
+.content4_box .box2 { width: 50%; height: 600px; background: url(../img/promo_apple_watch_series_8__ch7rexplmihe_large.jpg)
+ no-repeat center; } 
+.content4_box .box2 .txt_box { margin: auto; width: 350px; text-align: center; padding-top: 80px; } 
+.content4_box .box2 .txt_box h4 { font-size: 32px; font-weight: 600; color: #fff; margin-bottom: 10px; } 
+.content4_box .box2 .txt_box span { font-size: 14px; line-height: 1.10722; font-weight: 600; letter-spacing: 0.004em; color: red; } 
+.content4_box .box2 .txt_box p { margin-top: 10px; margin-bottom: 10px; font-size: 19px; line-height: 1.2381; font-weight: 400; letter-spacing: 0.016em; color: #fff; } 
+.content4_box .box2 .txt_box .btn_box { margin-left: 30px; } 
+.content4_box .box2 .txt_box button { font-size: 14px; margin-right: 30px; } 
+.content4_box .box2 .txt_box button a { color: #06c; font-weight: 500; background-color: #161617; } 
+.content4_box .box2 .txt_box button a:hover { text-decoration: underline; } 
+
+.content4_box .box3 { width: 50%; height: 600px; background: url(../img/promo_airpods_pro_avail__gaxggskofx6y_large.jpg)
+ no-repeat center; } 
+.content4_box .box3 .txt_box { margin: auto; width: 350px; text-align: center; padding-top: 80px; } 
+.content4_box .box3 .txt_box h4 { font-size: 32px; font-weight: 600; color: #fff; margin-bottom: 10px; } 
+.content4_box .box3 .txt_box p { margin-top: 15px; margin-bottom: 15px; font-size: 18px; line-height: 1.2381; font-weight: 400; letter-spacing: 0.016em; color: #fff; } 
+.content4_box .box3 .txt_box .btn_box { margin-left: 30px; } 
+.content4_box .box3 .txt_box button { font-size: 14px; margin-right: 30px; } 
+.content4_box .box3 .txt_box button a { color: #06c; font-weight: 500; background-color: #161617; } 
+.content4_box .box3 .txt_box button a:hover { text-decoration: underline; } 
+
+.content4_box .box4 { width: 50%; height: 600px; background: url(../img/promo_apple_watch_se__f9702l6odgi2_large.jpg)
+ no-repeat center; } 
+.content4_box .box4 .txt_box { margin: auto; width: 350px; text-align: center; padding-top: 80px; } 
+.content4_box .box4 .txt_box h4 { font-size: 32px; font-weight: 600; color: #1d1d1f; margin-bottom: 10px; } 
+.content4_box .box4 .txt_box span { font-size: 15px; line-height: 1.10722; font-weight: 600; letter-spacing: 0.004em; color:red; } 
+.content4_box .box4 .txt_box p { margin-top: 10px; margin-bottom: 10px; font-size: 19px; line-height: 1.2381; font-weight: 400; letter-spacing: 0.016em; } 
+.content4_box .box4 .txt_box .btn_box { margin-left: 30px; } 
+.content4_box .box4 .txt_box button { font-size: 14px; margin-right: 30px; } 
+.content4_box .box4 .txt_box button a { color: #06c; font-weight: 500; background-color: #fff; } 
+.content4_box .box4 .txt_box button a:hover { text-decoration: underline; } 
