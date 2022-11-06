@@ -1,0 +1,6 @@
+echo # portfolio  README.md
+git init
+------------
+git add .
+git commit -m "오타수정"
+git push origin main
