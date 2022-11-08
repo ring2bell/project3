@@ -11,12 +11,19 @@
 }
 #section2 {
   height: 624px;
-  background: url(../img/hero_iphone14pro__e5xbgo5ffhg2_large.jpg) no-repeat center;
+  background: url(../img/hero_iphone14pro__e5xbgo5ffhg2_large.jpg) no-repeat
+    center;
 }
 #section3 {
   height: 624px;
   background: url(../img/hero_iphone14__fjmsqstr1ceq_large.jpg) no-repeat center;
 }
 #section4 {
-    height: 1200px;
+  height: 1200px;
 }
+
+#section5 {
+  height: 700px;
+}
+
+footer{height: 310px;}
